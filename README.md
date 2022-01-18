@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://media.discordapp.net/attachments/873789389988298842/876307418445918249/ZMaid.png" />
   <h1>Baby Z 🚀</h1>
-  <h3 align="left">Hello my name is Baby Z, I'm 17 years old, I'm still beginner. Baby Z is not my real name. I'm from Indonesia, West Papua. I love typescript ❤<h3>
+  <h3 align="left">Hello my name is Z, I'm 18 years old, I'm still beginner. Z is not my real name. I'm from Indonesia ❤<h3>
 </div>
 
 </BR>
