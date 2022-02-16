@@ -1,5 +1,6 @@
 <div align="center">
   <h1>JustLazzy</h1>
+  <img src="https://media.discordapp.net/attachments/943001162196611103/943334641283235890/Comission_Alit_20220204211849.png" class="profile" />
   <h3 align="center">I'm still beginner<h3>
 </div>
 
@@ -24,3 +25,9 @@
   [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=JustLazzy&theme=blue-green)](https://github.com/JustLazzy)
 
 </div>
+
+   <style>
+      .profile {
+        border-radius: 50%;
+      }
+    </style>
