@@ -1,7 +1,6 @@
 <div align="center">
-  <img src="https://media.discordapp.net/attachments/873789389988298842/876307418445918249/ZMaid.png" />
-  <h1>Baby Z 🚀</h1>
-  <h3 align="center">Hello my name is Z, I'm 18 years old, I'm still beginner. Z is not my real name. I'm from Indonesia ❤<h3>
+  <h1>JustLazzy</h1>
+  <h3 align="center">I'm still beginner<h3>
 </div>
 
 </BR>
