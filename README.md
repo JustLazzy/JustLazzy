@@ -3,7 +3,7 @@
   <kbd>
   <img src="https://media.discordapp.net/attachments/943001162196611103/943334641283235890/Comission_Alit_20220204211849.png" width="450">
   </kbd>
-  <h3 align="center">I'm still beginner<h3>
+  <h3 align="center">Every 1 line of code, I take a nap for 3 hours<h3>
 </div>
 
 </BR>
