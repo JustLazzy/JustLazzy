@@ -10,6 +10,7 @@
   
 [![Baby Z's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JustLazzy&theme=discord_old_blurple)](https://github.com/JustLazzy)
   </BR>
+  </BR>
 [![Baby Z's github stats](https://github-readme-stats.vercel.app/api?username=JustLazzy&theme=discord_old_blurple)](https://github.com/JustLazzy)
 
 
@@ -20,7 +21,7 @@
 <BR>
 <BR>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31nqvehdpubh3nacplzsbtrjrqm4&cover_image=true&theme=natemoo-re&bar_color=3672ab&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31nqvehdpubh3nacplzsbtrjrqm4&cover_image=true&theme=compact)](https://github.com/kittinan/spotify-github-profile)
 
 </div>
 
