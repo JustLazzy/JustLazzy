@@ -17,7 +17,7 @@
 
 </div>
 
-<div align="center">>
+<div align="center">
 <BR>
 <BR>
 
