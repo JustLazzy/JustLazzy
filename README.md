@@ -15,7 +15,7 @@
 
 
 
-</div>
+</div aling="center">
 
 <div>
 <BR>
