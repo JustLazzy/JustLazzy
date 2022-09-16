@@ -15,7 +15,7 @@
 
 
 
-</div aling="center">
+</div align="center">
 
 <div>
 <BR>
