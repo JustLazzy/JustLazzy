@@ -1,28 +1,27 @@
 <div align="center">
-  <h1>JustLazzy</h1>
-  <kbd>
-  <img src="https://media.discordapp.net/attachments/943001162196611103/943334641283235890/Comission_Alit_20220204211849.png" width="450">
-  </kbd>
-  <h3 align="center">Every 1 line of code, I take a nap for 3 hours<h3>
+<BR>
+
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=37&duration=3000&pause=1000&color=34379F&center=true&vCenter=true&width=500&height=60&lines=Hey+I'm+JustLazzy;I'm+18+years+old;Every+one+line+of+code%2C+I+go+to+sleep)](https://git.io/typing-svg)
 </div>
-
-</BR>
-
-</tr>
-
+<tr>
+<BR>
 <h2 align="center">Github Stats</h2>
 <div align="center">
   
-[![Baby Z's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JustLazzy&theme=blue-green)](https://github.com/JustLazzy)
+[![Baby Z's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JustLazzy&theme=discord_old_blurple)](https://github.com/JustLazzy)
   </BR>
-[![Baby Z's github stats](https://github-readme-stats.vercel.app/api?username=JustLazzy&theme=blue-green)](https://github.com/JustLazzy)
+[![Baby Z's github stats](https://github-readme-stats.vercel.app/api?username=JustLazzy&theme=discord_old_blurple)](https://github.com/JustLazzy)
+
+
 
 </div>
+
+<div>
+<BR>
+<BR>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31nqvehdpubh3nacplzsbtrjrqm4&cover_image=true&theme=natemoo-re&bar_color=3672ab&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+
+</div>
+
 </BR>
-
-
-<div align="center">
-  <h1>Streak</h1>
-
-  [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=JustLazzy&theme=blue-green)](https://github.com/JustLazzy)
-</div>
