@@ -1,7 +1,7 @@
 <div align="center">
 <BR>
 
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=37&duration=3000&pause=1000&color=34379F&center=true&vCenter=true&width=500&height=60&lines=Hey+I'm+JustLazzy;I'm+18+years+old;Every+one+line+of+code%2C+I+go+to+sleep)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=37&duration=3000&pause=1000&color=7289DA&center=true&vCenter=true&width=500&height=60&lines=Hey+I'm+JustLazzy;I'm+18+years+old;Every+one+line+of+code%2C+I+go+to+sleep)](https://git.io/typing-svg)
 </div>
 <tr>
 <BR>
